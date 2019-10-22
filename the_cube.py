@@ -30,6 +30,7 @@ while i < l:
     else:
         print("invalid input")
     i += 1
-print(y, g, b, r, o, w)
+    
+#print(y, g, b, r, o, w)
 
-# Solve the Cube IN 7 steps
+# Algorithm to solve the cube. 
